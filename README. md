@@ -1,0 +1,15 @@
+texx - a digital drafting agent
+
+The goal is to create an interface to create and manipulate complex mathematical drafts.
+I am inspired by the mathematical drafts of Bateman and Griswold.
+I someday hope to make this freely accessible from my website, or just make it a website on its own.
+
+
+Functions:
+- nice GUI for drafting, like AdaCAD
+    - click to toggle threading, tie-up, and treadling.
+    - change colors
+- import/export .WIF or .pdf file formats
+- save/copy threadings, tie-ups, treadlings, etc
+- save python functions/mathematical equations that generate complex treadlings, threadings, etc.
+
